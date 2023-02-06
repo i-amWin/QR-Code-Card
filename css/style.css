@@ -12,6 +12,7 @@ img {
 
 body {
   min-height: 100vh;
+  min-height: 100dvh;
   font-family: "Outfit", sans-serif;
   display: grid;
   place-items: center;
@@ -44,8 +45,6 @@ body {
 }
 
 .attribution {
-  position: fixed;
-  bottom: 2%;
   font-size: 11px;
   text-align: center;
 }
